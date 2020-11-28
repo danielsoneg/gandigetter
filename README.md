@@ -3,6 +3,7 @@ Rust script to check for a domain on Gandi and register it if available
 
 ## Usage
 *WARNING:* This script can cost you money!
+
 `gandigetter config.json`
 
 ## Setup
