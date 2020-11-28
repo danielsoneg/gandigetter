@@ -1,0 +1,16 @@
+{
+    "apikey": "",
+    "domain": "",
+    "owner": {
+        "given": "",
+        "family": "",
+        "email": "",
+        "phone": "",
+        "streetaddr": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "zip": "",
+        "type": 0
+    }
+}
